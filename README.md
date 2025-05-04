@@ -1,6 +1,6 @@
 # Componente Aritmético y Booleano de la ALU
 
-Este proyecto consiste en la implementación del componente aritmético y booleano de una Unidad Aritmético-Lógica (ALU) utilizando el lenguaje de descripción de hardware Verilog. Fue desarrollado como parte de un proyecto académico por Daniel Arce, Issac Villalobos, Brendan Ramírez y Santi Valverde.
+Este proyecto consiste en la implementación del componente aritmético y booleano de una Unidad Aritmético-Lógica (ALU) utilizando el lenguaje de descripción de hardware Verilog. Fue desarrollado como parte de un proyecto académico por Daniel Arce, Issac Villalobos, Brendan Ramírez y Santiago Valverde.
 
 ## Descripción
 
